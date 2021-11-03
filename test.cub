@@ -1,0 +1,14 @@
+R 1000 700
+NO ./textures/wood.xpm
+SO ./textures/color_brick.xpm
+WE ./textures/grey_stone.xpm
+EA ./textures/red_brick.xpm
+S ./textures/pillar.xpm
+F 105,105,105
+C 139,0,139
+
+11111
+12221
+12S21
+12221
+11111
